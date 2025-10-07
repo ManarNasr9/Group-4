@@ -1,21 +1,21 @@
-HR Data Analysis Project  
+# 👩‍💼 HR Data Analysis Project
 
-### 📘 Project Overview  
-This project focuses on analyzing HR data to identify the key factors influencing *employee attrition, satisfaction, and performance*.  
-The analysis aims to uncover insights that help *improve employee retention, **enhance workplace environment, and **support strategic decision-making*.  
-The project also highlights *strengths and weaknesses* in the organization that affect productivity and overall company revenue, while identifying ways to *attract and retain top talents*.  
-
----
-
-### 🎯 Objectives  
-- Analyze HR dataset to detect patterns behind employee attrition and satisfaction.  
-- Identify key factors affecting performance and retention.  
-- Provide actionable insights to enhance employee experience and company productivity.  
-- Highlight organizational strengths and improvement areas for talent attraction and retention.  
+## 📘 Project Overview
+This project focuses on analyzing HR data to identify the key factors influencing *employee attrition, satisfaction, and performance*.
+The analysis aims to uncover insights that help *improve employee retention, **enhance workplace environment, and **support strategic decision-making*.
+The project also highlights *strengths and weaknesses* in the organization that affect productivity and overall company revenue, while identifying ways to *attract and retain top talents*.
 
 ---
 
-### 🧰 Tools & Technologies  
+## 🎯 Objectives
+- Analyze HR dataset to detect patterns behind employee attrition and satisfaction.
+- Identify key factors affecting performance and retention.
+- Provide actionable insights to enhance employee experience and company productivity.
+- Highlight organizational strengths and improvement areas for talent attraction and retention.
+
+---
+
+## 🧰 Tools & Technologies
 
 | *Category* | *Tools* |
 |---------------|------------|
@@ -28,7 +28,7 @@ The project also highlights *strengths and weaknesses* in the organization that 
 
 ---
 
-### 👥 Team Roles  
+## 👥 Team Roles
 
 | *Task* | *Member(s)* | *Tools* |
 |-----------|----------------|------------|
@@ -40,7 +40,7 @@ The project also highlights *strengths and weaknesses* in the organization that 
 
 ---
 
-### 🗓 Project Timeline  
+## 🗓 Project Timeline
 
 | *Week* | *Dates* | *Main Tasks* |
 |-----------|------------|----------------|
@@ -52,40 +52,47 @@ The project also highlights *strengths and weaknesses* in the organization that 
 
 ---
 
-### 📊 Key Focus Areas  
-- *Employee Attrition Analysis* → Reasons for leaving and departmental patterns.  
-- *Satisfaction & Performance* → Factors influencing job satisfaction and productivity.  
-- *Organizational Insights* → Strengths to enhance and weaknesses to improve.  
-- *Business Impact* → How HR trends affect company growth and profitability.  
+## 📊 Key Focus Areas
+- *Employee Attrition Analysis* → Reasons for leaving and departmental patterns.
+- *Satisfaction & Performance* → Factors influencing job satisfaction and productivity.
+- *Organizational Insights* → Strengths to enhance and weaknesses to improve.
+- *Business Impact* → How HR trends affect company growth and profitability.
 
 ---
 
-### 🚀 Setup & Execution Guide  
+## 🚀 Setup & Execution Guide
 
-1️⃣ *Clone the Repository*  
+1️⃣ *Clone the Repository*
 
 git clone https://github.com/ManarNasr9/Group-3.git
 
 
-2️⃣ *Open the Dataset*  
-- Download the HR dataset from Kaggle.  
+2️⃣ *Open the Dataset*
+- Download the HR dataset from Kaggle.
 - Save it inside the project folder.
+- [Dataset Link](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
-3️⃣ *Data Cleaning*  
+3️⃣ *Data Cleaning*
 - Use *Excel (Power Query)* or *Python (Pandas)* to clean missing or inconsistent values.
 
-4️⃣ *Data Analysis*  
+4️⃣ *Data Analysis*
 - Perform analysis using *Excel (Pivot Tables), **SQL Queries, or **Python*.
 
-5️⃣ *Visualization*  
+5️⃣ *Visualization*
 - Import cleaned data into *Power BI* and build dashboards for insights.
 
-6️⃣ *Report & Presentation*  
+6️⃣ *Report & Presentation*
 - Summarize findings and recommendations using *Canva*.
 
 ---
 
-### 🔮 Future Enhancements  
-- Integrate predictive modeling for attrition risk using Python.  
-- Automate dashboards for real-time HR insights in Power BI.  
+## 🔮 Future Enhancements
+- Integrate predictive modeling for attrition risk using Python.
+- Automate dashboards for real-time HR insights in Power BI.
 - Add employee feedback sentiment analysis for deeper insights.
+
+---
+
+## 📬 Contact Information
+- *Email:* [Manoranasr@gmail.com](mailto:Manoranasr@gmail.com)
+- *LinkedIn:* [linkedin.com/in/manar-nasr-994b542a1](https://www.linkedin.com/in/manar-nasr-994b542a1)
