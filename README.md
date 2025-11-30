@@ -90,7 +90,15 @@ git clone https://github.com/ManarNasr9/Group-3.git
 - Integrate predictive modeling for attrition risk using Python.
 - Automate dashboards for real-time HR insights in Power BI.
 - Add employee feedback sentiment analysis for deeper insights.
+## Project Deliverables
 
+### 📌 Presentation
+- **HR Data Analysis Presentation (Google Slides)**  
+  https://docs.google.com/presentation/d/1V6Mf_7xO9bi0kOD4cTVDU0bschPPoVFJ/edit?usp=drive_link&ouid=105601467505920104353&rtpof=true&sd=true
+
+### 📊 Dashboard
+- **Dashboard Link:**
+  https://drive.google.com/file/d/1MsNARONoQPW1_ZuSa-ADQpNcsKsPGTeN/view?usp=drive_link
 ---
 
 ## 📬 Contact Information
