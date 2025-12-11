@@ -94,7 +94,7 @@ git clone https://github.com/ManarNasr9/Group-3.git
 
 ### 📌 Presentation
 - **HR Data Analysis Presentation (Google Slides)**  
-  https://docs.google.com/presentation/d/1V6Mf_7xO9bi0kOD4cTVDU0bschPPoVFJ/edit?usp=drive_link&ouid=105601467505920104353&rtpof=true&sd=true
+  [https://docs.google.com/presentation/d/1V6Mf_7xO9bi0kOD4cTVDU0bschPPoVFJ/edit?usp=drive_link&ouid=105601467505920104353&rtpof=true&sd=true](https://app.powerbi.com/groups/me/reports/81cba0c5-900b-4e2a-be1d-82e9e07ab297/15cc975772ed9c926369?experience=power-bi)
 
 ### 📊 Dashboard
 - **Dashboard Link:**
