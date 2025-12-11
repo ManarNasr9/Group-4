@@ -94,11 +94,11 @@ git clone https://github.com/ManarNasr9/Group-3.git
 
 ### 📌 Presentation
 - **HR Data Analysis Presentation (Google Slides)**  
-  [https://docs.google.com/presentation/d/1V6Mf_7xO9bi0kOD4cTVDU0bschPPoVFJ/edit?usp=drive_link&ouid=105601467505920104353&rtpof=true&sd=true](https://app.powerbi.com/groups/me/reports/81cba0c5-900b-4e2a-be1d-82e9e07ab297/15cc975772ed9c926369?experience=power-bi)
+[  [https://docs.google.com/presentation/d/1V6Mf_7xO9bi0kOD4cTVDU0bschPPoVFJ/edit?usp=drive_link&ouid=105601467505920104353&rtpof=true&sd=true](https://app.powerbi.com/groups/me/reports/81cba0c5-900b-4e2a-be1d-82e9e07ab297/15cc975772ed9c926369?experience=power-bi)](https://docs.google.com/presentation/d/1kXJPAdDiAHiNqQqCYYDdyCUZxysfdm4T/edit?usp=drive_link&ouid=105601467505920104353&rtpof=true&sd=true)
 
 ### 📊 Dashboard
 - **Dashboard Link:**
-  https://drive.google.com/file/d/1MsNARONoQPW1_ZuSa-ADQpNcsKsPGTeN/view?usp=drive_link
+ [ https://drive.google.com/file/d/1MsNARONoQPW1_ZuSa-ADQpNcsKsPGTeN/view?usp=drive_link](https://app.powerbi.com/groups/me/reports/81cba0c5-900b-4e2a-be1d-82e9e07ab297/15cc975772ed9c926369?experience=power-bi)
 ---
 
 ## 📬 Contact Information
